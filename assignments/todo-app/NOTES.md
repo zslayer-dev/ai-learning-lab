@@ -3,6 +3,8 @@
 **시연 영상 (3분 3초):** [docs/demo.mp4](docs/demo.mp4)
 로컬 SQLite에서 추가·완료·삭제 → 서버 재시작 후 유지 → todo.db 조회, Supabase에서 같은 확인 → Table Editor → RLS 확인, Render 배포 서버에서 확인 순서로 담았다. (2026-10-29 촬영, 브라우저 화면 캡처에 자막을 붙여 제작)
 
+> 스크린샷과 영상에 나오는 테스트 계정 이메일은 개인정보라 흐리게 가렸다 (2026-11-02).
+
 ## 길 A - 로컬 SQLite (2026-10-29)
 
 **구성:** Express 백엔드(`server.js`) + Node 내장 SQLite(`db/sqlite.js`) → `todo.db` 파일 하나에 저장.
