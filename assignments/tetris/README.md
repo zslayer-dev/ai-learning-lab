@@ -2,6 +2,13 @@
 
 1988년 아케이드/패미컴 시절 테트리스 분위기를 재현한 브라우저 테트리스. `index.html` 하나로 동작합니다.
 
+### ▶ [바로 플레이하기](https://zslayer-dev.github.io/ai-learning-lab/assignments/tetris/)
+
+`https://zslayer-dev.github.io/ai-learning-lab/assignments/tetris/`
+(테스트 모드로 열기: [`?test`](https://zslayer-dev.github.io/ai-learning-lab/assignments/tetris/?test))
+
+- 회고: [RETROSPECTIVE.md](RETROSPECTIVE.md)
+
 ## 실행
 
 `index.html`을 브라우저로 열면 됩니다. 첫 키 입력 이후 사운드가 재생됩니다.
